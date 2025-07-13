@@ -1,31 +1,31 @@
 [
     {
         "id": "_meta",
-        "author": "",
-        "name": "Test"
+        "author": "Anthony W",
+        "name": "\"This is the worst thing I have ever seen.    I hate it so much.\""
     },
     "knight",
-    "clockmaker",
     "librarian",
+    "shugenja",
     "pixie",
+    "bountyhunter",
     "balloonist",
     "monk",
-    "lycanthrope",
     "fisherman",
     "juggler",
     "alchemist",
     "cannibal",
-    "ravenkeeper",
-    "mayor",
+    "amnesiac",
+    "poppygrower",
+    "hermit",
     "drunk",
-    "heretic",
     "recluse",
     "sweetheart",
     "damsel",
-    "puzzlemaster",
     "baron",
     "xaan",
     "boffin",
     "scarletwoman",
-    "ojo"
+    "ojo",
+    "stormcatcher"
 ]
